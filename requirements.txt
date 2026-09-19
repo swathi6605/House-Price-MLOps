@@ -6,3 +6,4 @@ scikit-learn
 joblib
 pydantic
 pytest
+httpx2
